@@ -1,0 +1,27 @@
+body{
+	background-color:098765;
+	font-family:verdana;
+}
+#ul{
+	width:45%;
+	float:right;
+}
+#ol{
+	width:45%;
+	float:left;
+}
+#google{
+	width:100%;
+}
+a:link {
+			
+			color:black;}
+a:hover {
+			text-decoration:none;
+			color:black;}
+a:visited {
+			text-decoration:none;
+			color:black;}
+a:active {
+			text-decoration:none;
+			color:black;}
