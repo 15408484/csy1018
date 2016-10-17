@@ -12,6 +12,7 @@ body{
 }
 #google{
 	width:100%;
+	float:left;
 }
 a:link {
 			
